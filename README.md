@@ -191,6 +191,15 @@ pd.DataFrame({
 - Untuk Detail `pengerjaan.ipynb` Notebook.
 
 ---
+##  Referensi & Sumber Data
+
+Data rumah dikumpulkan dari situs:  
+ [**Rumah123.com**](https://rumah123.com) — platform pencarian rumah terbesar di Indonesia.  
+
+Data diperoleh melalui teknik *web scraping* untuk tujuan edukasi dan analisis data non-komersial.
+
+---
+
 
 
 
